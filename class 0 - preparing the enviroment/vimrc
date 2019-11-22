@@ -1,5 +1,7 @@
+//This is a configuration file to VIM editor.Setting parameters to make easy to use the VIM editor. 
+
 set nu
-syntax on
+syntax on 
 set nocompatible
 set encoding=utf-8
 set showcmd
